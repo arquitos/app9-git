@@ -11,8 +11,8 @@
 	Muestra la ubicación del dispositivo de acuerdo al GPS
 	</description>
 	
-	<author href ="https://build.phonepag.com" email="adolfandrade1@gmail.com">
-	adolfo andrade rangel
+	<author href ="https://build.phonepag.com" email="arcosjr58@gmail.com">
+	Fernando Antonio Arcos de la Rosa
 		</author>
 	
 	<!-- Personaliza la aplicacion y plataforma -->
@@ -37,6 +37,6 @@
 	 
 	 <!-- Colocar icono app -->
 	 
-	 <icon src="res/android/Location.png"/>
+	 <icon src="res/android/mdpi.png"/>
 	 
 	 </widget>
